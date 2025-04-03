@@ -1,0 +1,497 @@
+[
+    {
+        "ticker": "AAPL"
+    },
+    {
+        "ticker": "GOOGL"
+    },
+    {
+        "ticker": "AMZN"
+    },
+    {
+        "ticker": "MSFT"
+    },
+    {
+        "ticker": "TSLA"
+    },
+    {
+        "ticker": "FB"
+    },
+    {
+        "ticker": "NFLX"
+    },
+    {
+        "ticker": "NVDA"
+    },
+    {
+        "ticker": "SPY"
+    },
+    {
+        "ticker": "BABA"
+    },
+    {
+        "ticker": "V"
+    },
+    {
+        "ticker": "INTC"
+    },
+    {
+        "ticker": "AMD"
+    },
+    {
+        "ticker": "DIS"
+    },
+    {
+        "ticker": "PYPL"
+    },
+    {
+        "ticker": "BA"
+    },
+    {
+        "ticker": "KO"
+    },
+    {
+        "ticker": "WMT"
+    },
+    {
+        "ticker": "JPM"
+    },
+    {
+        "ticker": "CVX"
+    },
+    {
+        "ticker": "IBM"
+    },
+    {
+        "ticker": "NKE"
+    },
+    {
+        "ticker": "PG"
+    },
+    {
+        "ticker": "PFE"
+    },
+    {
+        "ticker": "MRK"
+    },
+    {
+        "ticker": "GS"
+    },
+    {
+        "ticker": "T"
+    },
+    {
+        "ticker": "GM"
+    },
+    {
+        "ticker": "GE"
+    },
+    {
+        "ticker": "AT&T"
+    },
+    {
+        "ticker": "CVS"
+    },
+    {
+        "ticker": "C"
+    },
+    {
+        "ticker": "XOM"
+    },
+    {
+        "ticker": "UNH"
+    },
+    {
+        "ticker": "MCD"
+    },
+    {
+        "ticker": "WFC"
+    },
+    {
+        "ticker": "BA"
+    },
+    {
+        "ticker": "AMAT"
+    },
+    {
+        "ticker": "ISRG"
+    },
+    {
+        "ticker": "SQ"
+    },
+    {
+        "ticker": "MS"
+    },
+    {
+        "ticker": "NKE"
+    },
+    {
+        "ticker": "LMT"
+    },
+    {
+        "ticker": "GS"
+    },
+    {
+        "ticker": "RTX"
+    },
+    {
+        "ticker": "FDX"
+    },
+    {
+        "ticker": "TGT"
+    },
+    {
+        "ticker": "AXP"
+    },
+    {
+        "ticker": "ORCL"
+    },
+    {
+        "ticker": "CSCO"
+    },
+    {
+        "ticker": "DIS"
+    },
+    {
+        "ticker": "BNS"
+    },
+    {
+        "ticker": "KO"
+    },
+    {
+        "ticker": "BMY"
+    },
+    {
+        "ticker": "UNP"
+    },
+    {
+        "ticker": "ADM"
+    },
+    {
+        "ticker": "CAT"
+    },
+    {
+        "ticker": "XOM"
+    },
+    {
+        "ticker": "ZTS"
+    },
+    {
+        "ticker": "LOW"
+    },
+    {
+        "ticker": "UPS"
+    },
+    {
+        "ticker": "CSX"
+    },
+    {
+        "ticker": "CVX"
+    },
+    {
+        "ticker": "PYPL"
+    },
+    {
+        "ticker": "INTC"
+    },
+    {
+        "ticker": "AMZN"
+    },
+    {
+        "ticker": "GE"
+    },
+    {
+        "ticker": "BRK-B"
+    },
+    {
+        "ticker": "RTX"
+    },
+    {
+        "ticker": "QCOM"
+    },
+    {
+        "ticker": "SBUX"
+    },
+    {
+        "ticker": "WMT"
+    },
+    {
+        "ticker": "AIG"
+    },
+    {
+        "ticker": "MMM"
+    },
+    {
+        "ticker": "HD"
+    },
+    {
+        "ticker": "VZ"
+    },
+    {
+        "ticker": "TGT"
+    },
+    {
+        "ticker": "SPG"
+    },
+    {
+        "ticker": "BA"
+    },
+    {
+        "ticker": "LUV"
+    },
+    {
+        "ticker": "ROST"
+    },
+    {
+        "ticker": "JPM"
+    },
+    {
+        "ticker": "CVS"
+    },
+    {
+        "ticker": "AMT"
+    },
+    {
+        "ticker": "PNC"
+    },
+    {
+        "ticker": "NVO"
+    },
+    {
+        "ticker": "MSFT"
+    },
+    {
+        "ticker": "SNE"
+    },
+    {
+        "ticker": "DHR"
+    },
+    {
+        "ticker": "JNJ"
+    },
+    {
+        "ticker": "PG"
+    },
+    {
+        "ticker": "KHC"
+    },
+    {
+        "ticker": "WFC"
+    },
+    {
+        "ticker": "MA"
+    },
+    {
+        "ticker": "GOOG"
+    },
+    {
+        "ticker": "DIS"
+    },
+    {
+        "ticker": "GE"
+    },
+    {
+        "ticker": "HUM"
+    },
+    {
+        "ticker": "PFE"
+    },
+    {
+        "ticker": "MRK"
+    },
+    {
+        "ticker": "AMAT"
+    },
+    {
+        "ticker": "CTSH"
+    },
+    {
+        "ticker": "UNH"
+    },
+    {
+        "ticker": "TMUS"
+    },
+    {
+        "ticker": "MCO"
+    },
+    {
+        "ticker": "MS"
+    },
+    {
+        "ticker": "NOC"
+    },
+    {
+        "ticker": "DE"
+    },
+    {
+        "ticker": "DG"
+    },
+    {
+        "ticker": "ADI"
+    },
+    {
+        "ticker": "VLO"
+    },
+    {
+        "ticker": "COP"
+    },
+    {
+        "ticker": "LLY"
+    },
+    {
+        "ticker": "SCHW"
+    },
+    {
+        "ticker": "DUK"
+    },
+    {
+        "ticker": "PSA"
+    },
+    {
+        "ticker": "OXY"
+    },
+    {
+        "ticker": "ABT"
+    },
+    {
+        "ticker": "VZ"
+    },
+    {
+        "ticker": "RTX"
+    },
+    {
+        "ticker": "HD"
+    },
+    {
+        "ticker": "GOOG"
+    },
+    {
+        "ticker": "FIS"
+    },
+    {
+        "ticker": "NFLX"
+    },
+    {
+        "ticker": "ALXN"
+    },
+    {
+        "ticker": "CVX"
+    },
+    {
+        "ticker": "XOM"
+    },
+    {
+        "ticker": "MELI"
+    },
+    {
+        "ticker": "BIDU"
+    },
+    {
+        "ticker": "TMO"
+    },
+    {
+        "ticker": "SWKS"
+    },
+    {
+        "ticker": "SPG"
+    },
+    {
+        "ticker": "AMZN"
+    },
+    {
+        "ticker": "MSFT"
+    },
+    {
+        "ticker": "V"
+    },
+    {
+        "ticker": "ZTS"
+    },
+    {
+        "ticker": "AON"
+    },
+    {
+        "ticker": "CRM"
+    },
+    {
+        "ticker": "ABMD"
+    },
+    {
+        "ticker": "ILMN"
+    },
+    {
+        "ticker": "PRU"
+    },
+    {
+        "ticker": "CSCO"
+    },
+    {
+        "ticker": "MKC"
+    },
+    {
+        "ticker": "CHTR"
+    },
+    {
+        "ticker": "ETN"
+    },
+    {
+        "ticker": "HCA"
+    },
+    {
+        "ticker": "BAX"
+    },
+    {
+        "ticker": "CL"
+    },
+    {
+        "ticker": "NVDA"
+    },
+    {
+        "ticker": "EXC"
+    },
+    {
+        "ticker": "AMGN"
+    },
+    {
+        "ticker": "SYY"
+    },
+    {
+        "ticker": "TRV"
+    },
+    {
+        "ticker": "UPS"
+    },
+    {
+        "ticker": "EOG"
+    },
+    {
+        "ticker": "FISV"
+    },
+    {
+        "ticker": "MSCI"
+    },
+    {
+        "ticker": "BBY"
+    },
+    {
+        "ticker": "CTSH"
+    },
+    {
+        "ticker": "LHX"
+    },
+    {
+        "ticker": "LRCX"
+    },
+    {
+        "ticker": "TSLA"
+    },
+    {
+        "ticker": "NKE"
+    },
+    {
+        "ticker": "STZ"
+    },
+    {
+        "ticker": "MCK"
+    }
+]
